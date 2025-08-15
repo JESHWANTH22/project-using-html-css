@@ -1,0 +1,17 @@
+
+.button{
+    color:white;
+    background-color: red;
+    border: none;
+    height: 20px;
+    width: 60px;
+    cursor: pointer;
+    border-radius: 1px;
+    border-color: black;
+
+
+}
+button:active{
+    background-color: blue;
+}
+
