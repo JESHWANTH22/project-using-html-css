@@ -1,17 +1,50 @@
 
-.button{
-    color:white;
-    background-color: red;
+.profile{
+    width :350px;
+    border-radius: 100;
+    border-radius: 50%;
+   
+   
+    
+}
+.profile details{
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;   
+   
+
+    
+ }
+.search input{
+    color: black;
+    width: 750px;
+    text-align: left;
+    margin:center;
+    margin-top: 1px;
+    margin-right: 10px;
+    padding: 15px;
+    border-radius: 146px;
+    box-shadow: 10px;
+    box-shadow:2px 5px 15px black;
+    border-color: white;
     border: none;
-    height: 20px;
-    width: 60px;
-    cursor: pointer;
-    border-radius: 1px;
-    border-color: black;
-
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: medium;
+    }
+.box{
+   width: 1320px;
+   height: 1400px;
+   margin-top: 100px;
+   border: 3px solid black;
+   border-width: 3px;
+   border-radius: 4%;
+  
 
 }
-button:active{
-    background-color: blue;
+.nav{
+    width: 10x;
+    margin-top: 50px;
+    align-items: right;
+    
+  
 }
-
